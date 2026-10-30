@@ -43,7 +43,7 @@ This project is being developed individually as part of CIS 375: Software Engine
 ## Project Documentation
 
 The project proposal and Statement of Work (SOW) outline the application's objectives, scope, requirements, architecture, Agile development schedule, and testing plan.
-
+[View Project Proposal](CIS-375_Project_Proposal&SOW.pdf)
 ## Developer
 
 **Hussam Almaweri**  
